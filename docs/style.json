@@ -9,14 +9,14 @@
     "vstd": {
       "type": "vector",
       "tiles": [
-        "http://localhost:9966/zxy/{z}/{x}/{y}.pbf"
+        "https://optgeo.github.io/kokoromi-tm/zxy/{z}/{x}/{y}.pbf"
       ],
       "attribution": "OpenStreetMap contributors",
       "maxzoom": 15
     }
   },
-  "sprite": "http://localhost:9966/sprite/sprite",
-  "glyphs": "http://localhost:9966/font/{fontstack}/{range}.pbf",
+  "sprite": "https://optgeo.github.io/kokoromi-tm/sprite/sprite",
+  "glyphs": "https://optgeo.github.io/kokoromi-tm/font/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
