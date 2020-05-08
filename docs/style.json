@@ -11,7 +11,7 @@
       "tiles": [
         "https://optgeo.github.io/kokoromi-tm/zxy/{z}/{x}/{y}.pbf"
       ],
-      "attribution": "OpenStreetMap contributors",
+      "attribution": "OpenStreetMap contributors, <img src='https://unopengis.github.io/watermark/watermark.png'>",
       "maxzoom": 15
     }
   },
